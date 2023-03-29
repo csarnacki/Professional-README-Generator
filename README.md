@@ -7,6 +7,8 @@ This project is designed for creating a generated README file using JavaScript a
 
 The user can then preview the README and see that it contains all the information they included as well as a table of contents that allows them to jump to a certain part of the page.
 
+Note: The gitignore, generateMarkdown.js, package-lock.json and package.json files were included in approved source code from the potential-enigma repository from an account titled coding-boot-camp. I edited content in the index.js and generateMarkdown.js files.
+
 Below is a link that can be clicked on to view a video demonstrating usage.
 
 https://drive.google.com/file/d/1tUgTukz4Ylu5gXwAr-CueDZVlxYxNMPq/view
